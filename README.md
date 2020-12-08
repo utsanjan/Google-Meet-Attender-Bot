@@ -137,8 +137,8 @@ If you have turned off BOT after class is completed then only turn it on after 1
 
 ```sh
 
-This bot will only work with `B SEE A 2019 Batccch`
-if you are not from this batccch then do some changes in python file it should work for you as well.
+Do some changes in the python file if required. 
+It should then work for you as well.
 
 Turn Off two step verification if enabled in your gmail account.
 
