@@ -120,14 +120,6 @@ If you havent created account on heroku create one.
 14. Then go to resource option and turn on the bot.
 
 ```
-
----
-
-### Video Tutorial of deployment of BOT.
-
-You can also watch this video of heroku deployment.
-
-
 ---
 
 # Tips
@@ -174,7 +166,7 @@ Dont share these cookies with anyone.
 ---
 
 ### © Credits
-<i><strong>[Utsanjan Maity](https://github.com/nitinshivam)</strong> on Github</i></br>
+<i><strong>[Utsanjan Maity](https://github.com/utsanjan)</strong> on Github</i></br>
 <i><strong>[utsanjan](https://www.instagram.com/utsanjan)</strong> on Instagram</i></br>
 
 ---
