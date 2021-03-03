@@ -1,4 +1,4 @@
-# Google-Meet-Attender-Bot
+# 🤖 Google-Meet-Attender-Bot
 
 > This BOT will attend your online google meet classes on your behalf.
 ---
@@ -170,7 +170,3 @@ Dont share these cookies with anyone.
 <i><strong>[utsanjan](https://www.instagram.com/utsanjan)</strong> on Instagram</i></br>
 
 ---
-
-#### Licence
-
-MIT © [Utsanjan Maity](https://github.com/utsanjan)
