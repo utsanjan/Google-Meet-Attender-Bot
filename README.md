@@ -23,7 +23,6 @@ Chromedriver v87 has been used here in this project.
 
 If git is not installed then install git from here:
 <br>[Click here to Download Git](https://git-scm.com/downloads)
-
 <br>Then run this command given below:
 
 ```sh
