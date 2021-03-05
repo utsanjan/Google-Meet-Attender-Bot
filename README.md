@@ -1,7 +1,14 @@
-# 🤖 Google-Meet-Attender-Bot
-
-> This BOT will attend your online google meet classes on your behalf.
----
+<h1 align="center">
+  <br>
+  <a href="https://github.com/utsanjan/Google-Meet-Attender-Bot/">
+  <img src="https://1.bp.blogspot.com/-NqnlL1QuTYQ/YEGq56HRwNI/AAAAAAAAbfs/BIhrxvNTeCE175RyGZm-DaK1s28nlupkACLcBGAsYHQ/w200-h200/imageonline-co-hueshifted.png"
+  alt="Google Meet Attender Bot">
+  </a><br>
+  Google Meet Attender Bot
+  <br>
+</h1>
+<p align="center">This BOT will attend your online
+<br>Google Meet classes on your behalf</p>
 
 ### Chromedriver v87 has been used here 
 If your chrome version is not 87
