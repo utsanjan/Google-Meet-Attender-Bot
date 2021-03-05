@@ -10,14 +10,14 @@ Google Meet Attender Bot
 <p align="center">This BOT will attend your online Google Meet classes on your behalf.
 <br>No need to take any stress for your online meetings</p>
 
-## 📝 About the Project
+## About the Project
 
 Chromedriver v87 has been used here.
 <br>If your chrome version is not 87 then download it from [here.](https://chromedriver.chromium.org/downloads)
 <br>Download it in accordance with your Chrome Browser Version.
 Delete `chromedriver.exe` before pushing it to heroku. (!important)
 
-## 📲 Cloning this Repo
+## Cloning this Repo
 
 If git is not installed then install git from here:
 <br>[Click here to Download Git](https://git-scm.com/downloads)
