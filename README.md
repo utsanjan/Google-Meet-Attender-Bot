@@ -15,7 +15,7 @@ Google Meet Attender Bot
 ## About the Project
 
 Chromedriver v87 has been used here in this project.
-<br>If your chrome version is not 87 then download it from [here.](https://chromedriver.chromium.org/downloads)
+<br>If your Chromedriver is not v87 then download it from [here.](https://chromedriver.chromium.org/downloads)
 <br>Download it in accordance with your Chrome Browser Version.
 <br>Delete `chromedriver.exe` before pushing it to heroku. (!important)
 
