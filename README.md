@@ -125,7 +125,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 
 ```
 
-#### If you havent created account on Heroku create one from [here](https://signup.heroku.com/)
+#### If you havent created account on Heroku create one from [here.](https://signup.heroku.com/)
 
 ## Tips
 ```sh
