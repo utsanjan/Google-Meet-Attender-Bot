@@ -76,15 +76,17 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 
 > Why do we need it to deploy on heroku ?
 
-```sh
-1. If we run it on localhost we have to always manually start it.
-(And if we do that then why we should call it a BOT)
+* If we run it on localhost we have to always manually start it.
+<br>  (And if we do that then why we should call it a BOT)
 
-2. It will consume our cpu usage, data usage and our time.
+* It will consume our cpu usage, data usage and our time.
+* Heroku provides free server hosting and 500hrs monthly
+<br>  usage which will be more than enough for us.
+
+
+## Deployment Steps
 
 ```
-
-```sh
 0. Clone the repo.
 1. Install requirements `$ pip install -r requirements.txt`.
 2. Run command `$ python get_cookies.py` and login to your google account.
@@ -123,11 +125,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 
 ```
 
-
-## Why we use Heroku ?
-
-Heroku provides free server hosting and 500hrs monthly usage which will be more than enough for us.
-If you havent created account on Heroku create one.
+#### If you havent created account on Heroku create one from [here](https://signup.heroku.com/)
 
 ## Tips
 ```sh
