@@ -10,27 +10,32 @@
 <p align="center">This BOT will attend your online
 <br>Google Meet classes on your behalf</p>
 
-### Chromedriver v87 has been used here 
-If your chrome version is not 87
-Then download it from here `https://chromedriver.chromium.org/downloads` according to your chrome version.
+## About the Project
+
+Chromedriver v87 has been used here.
+<br>If your chrome version is not 87 then download it from [here.](https://chromedriver.chromium.org/downloads)
+Download it in accordance with your Chrome Browser Version.
 Delete `chromedriver.exe` before pushing it to heroku. (!important)
 
----
-
 ### Clone this repo
-If git is not installed then install git from here [Click here to Download Git](https://git-scm.com/downloads) then run below command.
+
+If git is not installed then install git from here:
+<br>[Click here to Download Git](https://git-scm.com/downloads)
+
+<br>Then run this command given below:
 
 ```sh
 $ git clone https://github.com/Ryuk-me/Google-Meet-Attender-LNMEE
 
 ```
----
 
 ## Installation for localhost
+
 Make sure your have `python3` and `chrome browser` installed.</br>
 ```sh
 $ pip install -r requirements.txt
 ```
+
 #### Run command
 <i>To get Cookies</i>
 ```sh
@@ -41,9 +46,6 @@ python get_cookies.py
 ```sh
 python main.py
 ```
-
-
----
 
 # How to change meet code
 
