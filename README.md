@@ -7,7 +7,7 @@ alt="Google Meet Attender Bot">
 Google Meet Attender Bot
 <br>
 </h1>
-<p align="center">This BOT will attend your online
+<p align="center">This python BOT will attend your online
 <br>Google Meet classes on your behalf.
 <br>No need of taking any extra stress
 <br>for your online meetings.</p>
