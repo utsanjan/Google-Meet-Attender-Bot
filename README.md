@@ -17,7 +17,7 @@ Chromedriver v87 has been used here.
 <br>Download it in accordance with your Chrome Browser Version.
 <br>Delete `chromedriver.exe` before pushing it to heroku. (!important)
 
-## Cloning this Repo
+## Cloning this Repository
 
 If git is not installed then install git from here:
 <br>[Click here to Download Git](https://git-scm.com/downloads)
