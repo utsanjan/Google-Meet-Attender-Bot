@@ -12,7 +12,7 @@ Google Meet Attender Bot
 <br>No need of taking any extra stress
 <br>for your online meetings.</p>
 
-## About the Project
+## 🔸 About the Project
 
 Chromedriver v87 has been used here in this project.
 <br>If your Chromedriver is not v87 then download it from [here.](https://chromedriver.chromium.org/downloads)
@@ -31,7 +31,7 @@ $ git clone https://github.com/Ryuk-me/Google-Meet-Attender-LNMEE
 
 ```
 
-## Installation for localhost
+## 🔸 Installation for localhost
 
 Make sure your have `python3` and `chrome browser` installed.</br>
 ```sh
@@ -49,14 +49,14 @@ python get_cookies.py
 python main.py
 ```
 
-## Find the meeting code
+## 🔸 Find the meeting code
 
 ```sh
 https://meet.google.com/abc-defg-hij
 abc-defg-hij <-- it is your meeting code.
 ```
 
-## Change your meeting code
+## 🔸 Change your meeting code
 
 ```sh
 1. Download any code editor i prefer vscode.
@@ -65,7 +65,7 @@ abc-defg-hij <-- it is your meeting code.
 ```
 
 
-## Set your Name and Roll to send it to Chat
+## 🔸 Set your Name and Roll to send it to Chat
 
 ```bash
 Go to line 75
@@ -74,7 +74,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 ```
 
 
-# Deploy it on Heroku
+# 🔸 Deploy it on Heroku
 
 > Why do we need it to deploy on heroku ?
 
@@ -86,7 +86,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 <br>  usage which will be more than enough for us.
 
 
-## Deployment Steps
+## 🔸 Deployment Steps
 
 ```
 0. Clone the repo.
@@ -129,7 +129,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 
 #### If you havent created account on Heroku create one from [here.](https://signup.heroku.com/)
 
-## Tips
+## 🔸 Tips
 ```sh
 Turn off BOT after class is completed / when you are awake.(to save heroku dyno hours).
 
@@ -140,7 +140,7 @@ If you have turned off BOT after class is completed then only turn it on after 1
 ```
 
 
-## Important Notes
+## 🔸 Important Notes
 
 ```sh
 
@@ -158,7 +158,7 @@ Dont share these cookies with anyone.
 ```
 
 
-## Disclaimer
+## 🔸 Disclaimer
 
 <i>This <strong>BOT</strong> is created for educational purposes only.</br></i>
 <i>The usage of this <strong>BOT</strong> is at the own risk of the User.</br></i>
@@ -169,7 +169,7 @@ Dont share these cookies with anyone.
 #### <i>“Education is the most powerful weapon which you can use to change the world.”</i><strong> ― Nelson Mandela</strong></br>
 <i> Attend all classes <strong>sincerely</i>.</br></br>
 
-## Contact me  
+## 🔸 Contact me  
 
 For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
 [Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
