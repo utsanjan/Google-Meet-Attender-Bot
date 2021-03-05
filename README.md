@@ -1,23 +1,23 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/utsanjan/Google-Meet-Attender-Bot/">
-  <img src="https://1.bp.blogspot.com/-NqnlL1QuTYQ/YEGq56HRwNI/AAAAAAAAbfs/BIhrxvNTeCE175RyGZm-DaK1s28nlupkACLcBGAsYHQ/w200-h200/imageonline-co-hueshifted.png"
-  alt="Google Meet Attender Bot">
-  </a><br>
-  Google Meet Attender Bot
-  <br>
+<br>
+<a href="https://github.com/utsanjan/Google-Meet-Attender-Bot/">
+<img src="https://1.bp.blogspot.com/-NqnlL1QuTYQ/YEGq56HRwNI/AAAAAAAAbfs/BIhrxvNTeCE175RyGZm-DaK1s28nlupkACLcBGAsYHQ/w200-h200/imageonline-co-hueshifted.png"
+alt="Google Meet Attender Bot">
+</a><br>
+Google Meet Attender Bot
+<br>
 </h1>
 <p align="center">This BOT will attend your online Google Meet classes on your behalf.
 <br>No need to take any stress for your online meetings</p>
 
-## About the Project
+## 📝 About the Project
 
 Chromedriver v87 has been used here.
 <br>If your chrome version is not 87 then download it from [here.](https://chromedriver.chromium.org/downloads)
 <br>Download it in accordance with your Chrome Browser Version.
 Delete `chromedriver.exe` before pushing it to heroku. (!important)
 
-## Cloning this Repo
+## 📲 Cloning this Repo
 
 If git is not installed then install git from here:
 <br>[Click here to Download Git](https://git-scm.com/downloads)
@@ -124,10 +124,10 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 ```
 
 
-## Why we use heroku ?
+## Why we use Heroku ?
 
 Heroku provides free server hosting and 500hrs monthly usage which will be more than enough for us.
-If you havent created account on heroku create one.
+If you havent created account on Heroku create one.
 
 ## Tips
 ```sh
