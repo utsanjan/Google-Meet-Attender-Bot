@@ -74,7 +74,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 ```
 
 
-# 🔸 Deploy it on Heroku
+## 🔸 Deploy it on Heroku
 
 > Why do we need it to deploy on heroku ?
 
