@@ -86,7 +86,7 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 <br>  usage which will be more than enough for us.
 
 
-## 🔸 Deployment Steps
+### Deployment Steps:
 
 ```
 0. Clone the repo.
