@@ -14,10 +14,10 @@
 
 Chromedriver v87 has been used here.
 <br>If your chrome version is not 87 then download it from [here.](https://chromedriver.chromium.org/downloads)
-Download it in accordance with your Chrome Browser Version.
+<br>Download it in accordance with your Chrome Browser Version.
 Delete `chromedriver.exe` before pushing it to heroku. (!important)
 
-### Clone this repo
+## Cloning this Repo
 
 If git is not installed then install git from here:
 <br>[Click here to Download Git](https://git-scm.com/downloads)
@@ -36,8 +36,8 @@ Make sure your have `python3` and `chrome browser` installed.</br>
 $ pip install -r requirements.txt
 ```
 
-#### Run command
-<i>To get Cookies</i>
+<i>Now run command to get Cookies</i>
+
 ```sh
 python get_cookies.py
 ```
@@ -47,22 +47,23 @@ python get_cookies.py
 python main.py
 ```
 
-# How to change meet code
+## Find the meeting code
 
-> How to find my google meet code ?
 ```sh
 https://meet.google.com/abc-defg-hij
 abc-defg-hij <-- it is your meeting code.
 ```
-> How to change meet code ?
+
+## Change your meeting code
 
 ```sh
 1. Download any code editor i prefer vscode.
 2. Open main.py with vscode or any other editor or you can use notepad.
 3. Go to line 69 and replace meet code with your meet code and save.
 ```
----
-### How to set my name and roll to send it to chat.
+
+
+## Set your Name and Roll to send it to Chat
 
 ```bash
 Go to line 75
@@ -70,10 +71,8 @@ full_name_with_roll = "Utsanjan Maity CSE/18/27"
 now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 ```
 
----
 
-
-# How to Deploy it on Heroku
+# Deploy it on Heroku
 
 > Why do we need it to deploy on heroku ?
 
@@ -84,12 +83,6 @@ now repalce `Utsanjan Maity CSE/18/27` with your name and roll.
 2. It will consume our cpu usage, data usage and our time.
 
 ```
-> Why we use heroku ?
-
-Heroku provides free server hosting and 500hrs monthly usage which will be more than enough for us.
-If you havent created account on heroku create one.
-
-#### So Coming to the main point How to deploy it on heroku
 
 ```sh
 0. Clone the repo.
@@ -129,9 +122,14 @@ If you havent created account on heroku create one.
 14. Then go to resource option and turn on the bot.
 
 ```
----
 
-# Tips
+
+## Why we use heroku ?
+
+Heroku provides free server hosting and 500hrs monthly usage which will be more than enough for us.
+If you havent created account on heroku create one.
+
+## Tips
 ```sh
 Turn off BOT after class is completed / when you are awake.(to save heroku dyno hours).
 
@@ -140,9 +138,9 @@ Turn on BOT Before Sleeping so it can attend your class while your are asleep.
 If you have turned off BOT after class is completed then only turn it on after 12PM.
 (If you turn on it before 12PM it will again start your meeting so be careful.) 
 ```
----
 
-# SOME IMPORTANT NOTES
+
+## Important Notes
 
 ```sh
 
@@ -158,9 +156,9 @@ First run get_cookie.py and get your gmail account cookies. ( NECESSARY i repeat
 Dont share these cookies with anyone.
 
 ```
----
 
-# DISCLAIMER
+
+## Disclaimer
 
 <i>This <strong>BOT</strong> is created for educational purposes only.</br></i>
 <i>The usage of this <strong>BOT</strong> is at the own risk of the User.</br></i>
@@ -171,11 +169,7 @@ Dont share these cookies with anyone.
 #### <i>“Education is the most powerful weapon which you can use to change the world.”</i><strong> ― Nelson Mandela</strong></br>
 <i> Attend all classes <strong>sincerely</i>.</br></br>
 
----
----
+## Contact me  
 
-### © Credits
-<i><strong>[Utsanjan Maity](https://github.com/utsanjan)</strong> on Github</i></br>
-<i><strong>[utsanjan](https://www.instagram.com/utsanjan)</strong> on Instagram</i></br>
-
----
+For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
