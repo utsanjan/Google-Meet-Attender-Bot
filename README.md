@@ -26,7 +26,7 @@ If git is not installed then install git from here:
 <br>Then run this command given below:
 
 ```sh
-$ git clone https://github.com/Ryuk-me/Google-Meet-Attender-LNMEE
+$ git clone https://github.com/utsanjan/Google-Meet-Attender-Bot
 
 ```
 
