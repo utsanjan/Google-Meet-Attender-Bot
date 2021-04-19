@@ -18,6 +18,5 @@ elif check_login.startswith("n") == True: # Created a new outcome for the user s
     time.sleep(5)
     driver.quit()
 else:
-    print("Login Attempt Unsuccessful! \n
-Please Try Again.")
+    print("Login Attempt Unsuccessful! \n Please Try Again.")
     sys.exit()
