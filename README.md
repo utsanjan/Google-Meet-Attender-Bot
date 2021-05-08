@@ -10,7 +10,7 @@ Google Meet Attender Bot
 <p align="center">This python BOT will attend your online
 <br>Google Meet classes on your behalf.
 <br>No need of taking any extra stress
-<br>for your online meetings.</p>
+<br>for your online meetings</p>
 
 ## 🔸 Project Notes
 
