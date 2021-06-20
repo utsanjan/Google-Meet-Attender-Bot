@@ -4,7 +4,7 @@
 <img src="https://1.bp.blogspot.com/-NqnlL1QuTYQ/YEGq56HRwNI/AAAAAAAAbfs/BIhrxvNTeCE175RyGZm-DaK1s28nlupkACLcBGAsYHQ/w200-h200/imageonline-co-hueshifted.png"
 alt="Google Meet Attender Bot">
 </a><br>
-Google Meet Attender Bot
+Google Meet Attender
 <br>
 </h1>
 <p align="center">This python BOT will attend your online
