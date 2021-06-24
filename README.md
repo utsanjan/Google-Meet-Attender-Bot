@@ -47,7 +47,7 @@ python get_cookies.py
 ```sh
 python main.py
 ```
-
+ 
 ## 🔸 Find the meeting code
 
 ```sh
