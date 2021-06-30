@@ -12,7 +12,7 @@ Google Meet Attender
 <br>No need of taking any extra stress
 <br>for your online meetings</p>
 
-## 🔸 Project Notes 
+## 🔸 Project Notes
 
 Chromedriver v87 has been used here in this project.
 <br>If your Chromedriver is not v87 then download it from [here.](https://chromedriver.chromium.org/downloads)
